@@ -36,8 +36,9 @@ Feel free to go above and beyond if you have ideas for extra features!
 - We use ReactJS and ReactNative.
 - The languages, frameworks and libraries mentioned are recommendations only, you are free to use other javascript frameworks /libraries you are comfortable with.
 - The project structure is up to your decision.
-- You are recommended to use git commits in a logical manner to demonstrate the development progress
-- Writing tests and adhering to development standards/conventions will let you gain extra points :)
+- You are recommended to use git commits in a logical manner to demonstrate the development progress.
+- Writing tests and adhering to development standards/conventions will let you gain extra points.
+- Writing design documents will attract extra points :)
 
 ### Submitting
 
