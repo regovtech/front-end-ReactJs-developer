@@ -27,7 +27,7 @@ While previewing a user will be able to update the inputs and re-upload a new im
 - As a user I can preview my inputs and edit on the same page before submitting my registration.
 - As a user I can view the App as Mobile or Web application.
 - As a user I can login to view my registration submission.
-- As a user I can log in and logout.
+- As a user I can log in and logout. (dummie login/hardcoded)
 
 Feel free to go above and beyond if you have ideas for extra features!
 
