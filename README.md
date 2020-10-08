@@ -27,7 +27,7 @@ AS a user I can do the following :
 - Preview my inputs and images on a different page that has a button to either return to personal information page to update information or submit the form.
 - I can update my personal details after account is activated.
 - Only after my account is activated, I can access and view a product page which allows me to add multiple products containing description, name and image.
-- After account is activated, I can login to view available products with paginations.
+- After account is activated, will I be able to login to view available products with paginations.
 - As a user I can logout, and login again to view my profile.
 
 Feel free to go above and beyond if you have ideas for extra features!
