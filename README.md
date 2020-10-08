@@ -12,29 +12,28 @@ This take home test is used to determine how you go about solving problems logic
 
 ### Coding Challenge
 
-Build a simple user registration portal. The registration process requires three steps.
+Build a simple user product management portal. The App will cater for the management of the following:
+1. Products
+4. User profile
 
-1. Collect user credentials
-2. A placeholder to upload international passport or national identity card. Then the placeholder should display the upload.
-3. A final preview of all inputs (credentials and upload) before submission.
-
-While previewing a user will be able to update the inputs and re-upload a new image.
 
 ### User Stories (Requirements)
 
-- As a user I can register on the app.
-- As a user I can upload my international passport or identity card.
-- As a user I can preview my inputs and edit on the same page before submitting my registration.
-- As a user I can view the App as Mobile or Web application.
-- As a user I can login to view my registration submission.
-- As a user I can log in and logout. (dummie login/hardcoded)
+AS a user I can do the following :
+
+- Register with my personal details( name, address, postcode, city, country, email, username) on the App. 2FA by email to activate account.
+- During registration I can upload my international passport and identity card (e.g license or national id). only jpg / png allowed.
+- Preview my inputs and images on a different page that has a button to either return to personal information page to update information or submit the form.
+- I can update my personal details after account is activated.
+- Only after my account is activated, I can access and view a product page which allows me to add multiple products containing description, name and image.
+- After account is activated, I can login to view available products with paginations.
+- As a user I can logout, and login again to view my profile.
 
 Feel free to go above and beyond if you have ideas for extra features!
 
 ### Notes and recommendations
 
-- We use ReactJS and ReactNative.
-- The languages, frameworks and libraries mentioned are recommendations only, you are free to use other javascript frameworks /libraries you are comfortable with.
+- Use ReactJS and ReactNative (TypeScript)
 - The project structure is up to your decision.
 - You are recommended to use git commits in a logical manner to demonstrate the development progress.
 - Writing tests and adhering to development standards/conventions will let you gain extra points.
