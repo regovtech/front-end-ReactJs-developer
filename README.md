@@ -2,7 +2,7 @@
   <img src="https://static.wixstatic.com/media/3ba736_be1f7ac0f8bf4e049a5fb6616b18d827~mv2_d_1937_1405_s_2.png/v1/fill/w_220,h_140,al_c,q_85,usm_0.66_1.00_0.01/Regov%20Technologies%202%20PNG_edited.webp" width="200">
 </p>
 
-# { "developer": "front-end ReactJS & ReactNative" }
+# { "developer": "ReactJS & ReactNative" }
 
 Hey! We are excited that you are interested in joining the team at Regov Technologies.
 
@@ -22,7 +22,8 @@ Build a simple user product management portal. The App will cater for the manage
 AS a user I can do the following :
 
 - Register with my personal details( name, address, postcode, city, country, email, username) on the App. 2FA by email to activate account.
-- During registration I can upload my international passport and identity card (e.g license or national id). only jpg / png allowed.
+- During registration I can upload my international passport and identity card (e.g license or national id). 
+  only jpg / png allowed.
 - Preview my inputs and images on a different page that has a button to either return to personal information page to update information or submit the form.
 - I can update my personal details after account is activated.
 - Only after my account is activated, I can access and view a product page which allows me to add multiple products containing description, name and image.
